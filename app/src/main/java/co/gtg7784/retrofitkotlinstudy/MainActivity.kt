@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class MainActivity : AppCompatActivity() {
     companion object {
         var baseURL = "https://api.openweathermap.org/"
-        var appId = "3b00e1d9ca984b9504d1e32ca08e252e"
+        var appId = ""
         var city = "Seoul"
     }
 
